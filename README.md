@@ -20,7 +20,7 @@ neste projeto trabalhamos com:
 - CSS
 - JavaScript
 
-## Fluxograma
+### Fluxograma
 <!-- ![Bankist-flowchart.png](Bankist-flowchart.png) -->
 
 <img src="Bankist-flowchart.png" width="500px" />
