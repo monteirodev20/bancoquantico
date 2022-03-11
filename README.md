@@ -1,9 +1,9 @@
 # Banco Quântico Project
 
 ## Funcionalidade
-Este app bancario permite ao usarios:
-- Transferir dinheiro entre os usários
-- Solicitar emprestimo 
+Este lindo app bancario permite aos usuários:
+- Transferir dinheiro entre os usuários
+- Solicitar empréstimo 
 - Apagar a conta 
 - balanço total doque entra e sai da conta
 
