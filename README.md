@@ -8,7 +8,7 @@ Este lindo app bancário permite aos usuários:
 - balanço total doque entra e sai da conta
 
 ## Habilidades
-neste projeto trabalhamos com:
+Neste projeto trabalhamos com:
 - Matrizes 
 - Números 
 - Datas 
