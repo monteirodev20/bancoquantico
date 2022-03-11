@@ -22,9 +22,8 @@ neste projeto trabalhamos com:
 
 ## Fluxograma
 <!-- ![Bankist-flowchart.png](Bankist-flowchart.png) -->
-<div>
+
 <img src="Bankist-flowchart.png" width="500px" />
-</div>
 
 ### Pode testa-lo aqui no netlify: [bancoquantico-webapp-monteiro](https://bancoquantico-webapp-monteiro.netlify.app/)
 
@@ -32,7 +31,7 @@ Usuários:
 1) usuário: ef -> PIN: 1111
 2) usuário: hs -> PIN: 2222
 
-<img src="screencapture-bancoquantico.png" width="700px" />
+<img src="screencapture-bancoquantico.png" width="500px" />
 
 
 
