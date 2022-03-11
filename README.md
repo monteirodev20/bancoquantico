@@ -21,7 +21,10 @@ neste projeto trabalhamos com:
 - JavaScript
 
 ## Fluxograma
-![Bankist-flowchart.png](Bankist-flowchart.png)
+<!-- ![Bankist-flowchart.png](Bankist-flowchart.png) -->
+<div>
+<img src="Bankist-flowchart.png" width="500px" />
+</div>
 
 ### Pode testa-lo aqui no netlify: [bancoquantico-webapp-monteiro](https://bancoquantico-webapp-monteiro.netlify.app/)
 
