@@ -20,6 +20,9 @@ neste projeto trabalhamos com:
 - CSS
 - JavaScript
 
+## Fluxograma
+![Bankist-flowchart.png](Bankist-flowchart.png)
+
 ### Pode testa-lo aqui no netlify: [bancoquantico-webapp-monteiro](https://bancoquantico-webapp-monteiro.netlify.app/)
 
 Usuários:
