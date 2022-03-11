@@ -31,7 +31,9 @@ Usuários:
 1) usuário: ef -> PIN: 1111
 2) usuário: hs -> PIN: 2222
 
-<img src="screencapture-bancoquantico.png" width="500px" />
+## Preview
+<!-- <img src="screencapture-bancoquantico.png" width="500px"/> -->
+<a href="https://bancoquantico-webapp-monteiro.netlify.app"><img src="screencapture-bancoquantico.png" class="media-object  img-responsive img-thumbnail" width="550px"></a>
 
 
 
